@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:taskatiapp/features/profile/profile_screen.dart';
 
 import 'features/splash/splash_screen.dart';
 class TaskatiApp extends StatelessWidget {
