@@ -28,7 +28,6 @@ List<Color>colors=[
   Colors.amber,
   Colors.blue,
   Colors.pink
-
 ];
 int currentIndex=0;
   @override
@@ -160,6 +159,7 @@ int currentIndex=0;
 
                            Hive.box<TaskModel>(AppConstants.taskBox).add(task);
                            tasks.add(task);
+                           Navigator.pop(context);
                          }
                        },),
 

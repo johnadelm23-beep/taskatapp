@@ -4,7 +4,6 @@ import 'package:taskatiapp/features/auth/models/user_model.dart';
 import 'package:taskatiapp/features/home/model/task_model.dart';
 import 'package:taskatiapp/taskati_app.dart';
 import 'package:hive_flutter/hive_flutter.dart';
-
 void main()async{
 await Hive.initFlutter();
 Hive.registerAdapter(UserModelAdapter());

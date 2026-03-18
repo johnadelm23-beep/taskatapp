@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 class CustomTextFormField extends StatelessWidget {
-  CustomTextFormField({super.key, required this.hintText,required this.validator, required this.controller, this.maxLines,  this.readOnly=false, this.onTap, this.suffixIcon});
+ const CustomTextFormField({super.key, required this.hintText,required this.validator, required this.controller, this.maxLines,  this.readOnly=false, this.onTap, this.suffixIcon});
 final String hintText;
 final TextEditingController controller;
 final String? Function(String?) validator;
@@ -10,7 +10,7 @@ final void Function()? onTap;
 final Widget? suffixIcon;
   @override
   Widget build(BuildContext context) {
-    return  TextFormField(
+    return TextFormField(
       onTap: onTap,
 
       readOnly: readOnly,
