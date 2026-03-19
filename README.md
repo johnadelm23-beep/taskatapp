@@ -10,7 +10,6 @@
 * ✏️ Edit tasks
 * 🗑️ Delete tasks
 * 📅 Choose date for each task
-* 🖼️ User profile (edit name & image)
 * 💾 Local storage using Hive
 * ⚡ Fast and lightweight
 
