@@ -1,23 +1,84 @@
-# taskatiapp
+# 🚀 Taskati App
 
-Taskat app to do
+**Taskati** is a simple and clean To-Do app built with Flutter to help you manage your daily tasks بسهولة وتنظيم.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Features
+
+* 📝 Add new tasks
+* ✏️ Edit tasks
+* 🗑️ Delete tasks
+* 📅 Choose date for each task
+* 🖼️ User profile (edit name & image)
+* 💾 Local storage using Hive
+* ⚡ Fast and lightweight
+
+---
+
+## 📸 Screenshots
+
+### 🔐 Auth Screen
+
 ![authScreen](https://github.com/user-attachments/assets/5b76ee70-e7c3-44c6-9eef-cf594f76af88)
 
-A few resources to get you started if this is your first Flutter project:![emp![chooseDateScreen](https://github.com/user-attachments/assets/1b2ad2c0-d2ac-4e00-9f96-f8826a82fce0)
-tyHomeScreen](https://github.com/user-attachments/assets/6db17f1d-7644-47c0-8e4a![screen4](https://github.com/user-attachments/assets/5752b778-f78e-4d3e-a5f3-03da9d55a593)
--2a985177edf2)![addTaskScreen](https://github.com/user-attachments/assets/89![screen3](https://github.com/user-attachments/assets/c722e380-8d0a-4433-b496-93334efa5ae1)
-f95230-ec34-495b-92e8-84ec23a5d2e4)
+### 🏠 Home Screen
 
-![screenhome](https://github.com/user-attachments/assets/647905b1-8b3d-416a-917a-4528dcaf19fb)
+![homeScreen](https://github.com/user-attachments/assets/647905b1-8b3d-416a-917a-4528dcaf19fb)
 
+### ➕ Add Task
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![addTaskScreen](https://github.com/user-attachments/assets/89f95230-ec34-495b-92e8-84ec23a5d2e4)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 📅 Choose Date
+
+![chooseDateScreen](https://github.com/user-attachments/assets/1b2ad2c0-d2ac-4e00-9f96-f8826a82fce0)
+
+### 📋 Tasks View
+
+![tasksScreen](https://github.com/user-attachments/assets/c722e380-8d0a-4433-b496-93334efa5ae1)
+
+### 📱 More Screens
+
+![screen4](https://github.com/user-attachments/assets/5752b778-f78e-4d3e-a5f3-03da9d55a593)
+
+---
+
+## 🛠️ Tech Stack
+
+* Flutter
+* Dart
+* Hive (Local Database)
+* Image Picker
+
+---
+
+## 🚀 Getting Started
+
+To run this project:
+
+```bash
+flutter pub get
+flutter run
+```
+
+---
+
+## 📚 Resources
+
+* https://docs.flutter.dev/get-started/codelab
+* https://docs.flutter.dev/cookbook
+
+---
+
+## 👨‍💻 Author
+
+**John Adel**
+
+* GitHub: https://github.com/johnadelm23-beep
+
+---
+
+## ⭐️ Don't forget
+
+If you like the project, give it a ⭐️ on GitHub 😉
